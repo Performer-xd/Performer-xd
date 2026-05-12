@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Performer-xd 👋
 
-<!--
-**Performer-xd/Performer-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer from Balochistan, Pakistan.
 
-Here are some ideas to get you started:
+## What I'm Learning
+- Python
+- Computer Science fundamentals  
+- Cybersecurity basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've Built
+- Calculator
+- To-do list app
+- User input projects
+
+## Experience
+- Responsible security disclosure via BugCrowd
+
+## Currently
+- Preparing for FSc Pre-Engineering
+- Building and learning daily
+
+## Goals
+- Computer Engineering 
+- Build something that actually matters

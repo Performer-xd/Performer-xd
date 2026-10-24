@@ -1,6 +1,6 @@
-# Hey, I'm Performer-xd 👋
+# Hey, I'm Saad 👋
 
-Self-taught developer from Balochistan, Pakistan.
+Programming Enthusiast from Balochistan.
 
 ## What I'm Learning
 - Python
